@@ -148,9 +148,6 @@ This project is part of the React Projects for Beginners repository. To contribu
 - [ ] Dark mode toggle
 - [ ] Multi-user support
 
-## 📄 License
-
-This project is open source and available under the [MIT License](../LICENSE).
 
 ## 🙏 Acknowledgments
 
